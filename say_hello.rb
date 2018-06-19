@@ -5,4 +5,4 @@ def greetings (say_hello="Ruby Programmer")
 puts "Hello #{say_hello}"
 end
 
-greetings
+greetings(Evie)
