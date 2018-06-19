@@ -2,4 +2,5 @@
 
 def (say_hello="Ruby Programmer")
   
-  puts
+puts "Hello #{say_hello}"
+
