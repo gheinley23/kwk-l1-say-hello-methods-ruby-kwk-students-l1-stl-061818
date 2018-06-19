@@ -6,3 +6,4 @@ puts "Hello #{say_hello}"
 end
 
 greetings(Evie)
+greetings
